@@ -1,4 +1,4 @@
-#Profile Management App
+# User Management System
 This is a simple React application for managing user profiles. Users can create, edit, and delete profiles, which include fields such as name, age, address, email, department, and bio. The profiles are stored in the browser's local storage.
 
 # Features
@@ -94,5 +94,7 @@ This project is licensed under the MIT License.
 
 This README file outlines the project structure, provides setup instructions, and explains how to run the application. You can commit this directly to your project. &#8203;:citation[oaicite:0]{index=0}&#8203;
 ```
-<h1 style='text-align: center'> happy coding!
+<h1 style="text-align: center;  align-items: center;  ">
+    Happy Coding!
 </h1>
+

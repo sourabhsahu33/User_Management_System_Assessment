@@ -1,11 +1,17 @@
 # User Management System
+
 This is a simple React application for managing user profiles. Users can create, edit, and delete profiles, which include fields such as name, age, address, email, department, and bio. The profiles are stored in the browser's local storage.
 
 # Features
+
 Create Profile: Users can create multiple profiles.
+
 Edit Profile: Users can edit the details of any created profile.
+
 Delete Profile: Users can delete any profile.
+
 Responsive Design: The application is responsive and works well on both desktop and mobile devices.
+
 Project Structure
 
 # My Profile App

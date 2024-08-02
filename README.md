@@ -91,8 +91,11 @@ npm run build
 ```
 # Usage
 Create Profile: Click on the "Create New Profile" button to add a new profile.
+
 Edit Profile: Click on the "Edit Profile" button in a profile card to update the profile information.
+
 Delete Profile: Click on the "Delete Profile" button in a profile card to remove the profile.
+
 # Contributing
 Contributions are welcome! Please feel free to submit a pull request.
 

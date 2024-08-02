@@ -13,6 +13,8 @@ Delete Profile: Users can delete any profile.
 Responsive Design: The application is responsive and works well on both desktop and mobile devices.
 
 Project Structure
+![Screenshot 2024-08-03 003906](https://github.com/user-attachments/assets/8642c123-6e72-403d-80fe-c26801b3301d)
+
 
 # My Profile App
 

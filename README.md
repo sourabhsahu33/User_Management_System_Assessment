@@ -39,7 +39,7 @@ Directory Structure:
 ├── README.md                      # Project documentation
 ```
 
-# 2. Back-end (Node.js + Express + TypeScript)
+# Back-end (Node.js + Express + TypeScript)
 Directory Structure:
 
 ```

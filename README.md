@@ -12,11 +12,11 @@ Delete Profile: Users can delete any profile.
 
 Responsive Design: The application is responsive and works well on both desktop and mobile devices.
 
-Project Structure
+ 
 ![Screenshot 2024-08-03 003906](https://github.com/user-attachments/assets/8642c123-6e72-403d-80fe-c26801b3301d)
 
 
-# My Profile App
+# My App-
 
 This is a React-based application that allows users to create, edit, and delete profiles. The profiles are stored locally using `localStorage` and the UI is styled with Tailwind CSS.
 
@@ -60,6 +60,18 @@ src/
 |   |-- validateInput.ts
 |-- server.ts
 ```
+# JWT Authentication
+
+Node.js & Express.js: Backend server to handle API requests and responses.
+
+TypeScript: Provides static typing for better code quality and maintainability.
+
+jsonwebtoken: A library to sign, verify, and decode JWTs.
+
+bcrypt: Used for hashing passwords before storing them securely in the database.
+
+Express Middleware: To protect routes by verifying JWTs in the request headers.
+
 # Setup and Run
 Prerequisites
 Make sure you have the following installed:
@@ -70,7 +82,7 @@ Installation
 Clone the repository:
 ```
 git clone https://github.com/yourusername/my-profile-app.git
-cd my-profile-app
+cd my app
 ```
 Install dependencies:
 ```
@@ -105,7 +117,7 @@ This project is licensed under the MIT License.
 
 This README file outlines the project structure, provides setup instructions, and explains how to run the application. You can commit this directly to your project. &#8203;:citation[oaicite:0]{index=0}&#8203;
 ```
-<h1 style="text-align: center; display: flex; justify-content: center; align-items: center; height: 100vh;">
+<h1>
     Happy Coding! 🤝
 </h1>
 
